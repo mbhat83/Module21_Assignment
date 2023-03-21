@@ -3,21 +3,21 @@ The Martian Aerospace Agency to be part of the first human colony on Mars is loo
 
 # Technologies & imports Used 
 
-Remix - https://remix.ethereum.org/
-Solidity - https://github.com/ethereum/solidity
-Metamask - https://metamask.io/download
-Ganache - https://github.com/trufflesuite/ganache-ui/releases/tag/v2.7.0
+- Remix - https://remix.ethereum.org/
+- Solidity - https://github.com/ethereum/solidity
+- Metamask - https://metamask.io/download
+- Ganache - https://github.com/trufflesuite/ganache-ui/releases/tag/v2.7.0
 
 Imports 
-ER20 - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20.sol
+- ER20 - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20.sol
 
-ERC20Detailed - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Detailed.sol
+- ERC20Detailed - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Detailed.sol
 
-ERC20 Mintable - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Mintable.sol
+- ERC20 Mintable - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Mintable.sol
 
-Crowdsale - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol
+- Crowdsale - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol
 
-Crowdsale Minted - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol
+- Crowdsale Minted - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol
 
 
 
