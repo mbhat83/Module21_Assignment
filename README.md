@@ -25,6 +25,8 @@ Imports
 Created the KaseiCoin and KaseiCoin Crowdsale contract using ER20,ER20Detailed, Mintable and Crowdsale complied and deploy the contract through Metamask and transacted tokens.
 
 Link to video clip
+[![Videoclipremix](https://github.com/mbhat83/Module21_Assignment/blob/main/Capture.PNG)](https://www.youtube.com/watch?v=GrJNtlAM2UY)
+
 
 https://www.youtube.com/watch?v=GrJNtlAM2UY
 
